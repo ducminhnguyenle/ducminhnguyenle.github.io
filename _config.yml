@@ -22,7 +22,7 @@ repository               : "ducminhnguyenle.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Duc-Minh Nguyen-Le"
   pronouns         : # example: "he/him"  
   bio              : "Bioinformatics scientist"
