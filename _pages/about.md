@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Duc-Minh Nguyen-Le's home on the web!
+Hi there — I’m Duc-Minh Nguyen-Le, and I’m excited to share my work and interests with you here. Welcome!
 
 ## 🌱 About Me
 
@@ -26,9 +26,17 @@ I’m a passionate bioinformatics scientist using technology to improve human he
 
 Complex biomedical and heterogeneity of genomic data carry important stories that can drive progress in healthcare. My work focus on translating this intricate information into meaningful actionable insights and practical health solutions through careful analysis, clear and engaging visualization, and collaborative partnerships.
 
-## Selected publications
+## 📖 Selected publications
 
-See the longer list [here](https://ducminhnguyenle.github.io/publications) or full list from my [Google Scholar](https://scholar.google.com/citations?user=PaGIHZMAAAAJ) page
+See the longer list [here](https://ducminhnguyenle.github.io/publications){target="_blank"} or full list from my [Google Scholar](https://scholar.google.com/citations?user=PaGIHZMAAAAJ){target="_blank"} page
+
+<p>
+  See the longer list
+  <a href="https://ducminhnguyenle.github.io/publications" target="_blank" rel="noreferrer">here</a>
+  or full list from my
+  <a href="https://scholar.google.com/citations?user=PaGIHZMAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
+  page.
+</p>
 
 ## 📬 Get in Touch
 

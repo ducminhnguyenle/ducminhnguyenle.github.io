@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "Bioinformatics scientist"
   location         : "Ho Chi Minh City, Vietnam"
-  employer         : "Institute for Applied Research in Health Sciences and Aging (ARiHA) - Thong Nhat Hospital"
+  employer         : "Institute for Applied Research<br>in Health Sciences and Aging (ARiHA),<br>Thong Nhat Hospital"
   uri              : # URL
   email            : "ducminhnguyenle30091996@gmail.com" 
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
