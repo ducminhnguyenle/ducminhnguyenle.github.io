@@ -2,13 +2,15 @@
 title: "Advanced VnPathoinformatics"
 collection: teaching
 type: "Modern Pathology, Bioinformatics and Biomedical Sciences"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/advanced-vnpathoinformatics_ytb
 venue: "Publicly Available online courses on [YouTube](http://www.youtube.com/@vpivnpathoinformatics8930)"
 date: Since 2021
 location: "Youtube"
 ---
 
 ▶️ [Advanced VnPathoinformatics](http://www.youtube.com/@vpivnpathoinformatics8930)
+
+Contributing lectures and hands-on practical tutorials for the following courses
 
 ## 2025
 
