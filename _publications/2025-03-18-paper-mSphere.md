@@ -3,7 +3,7 @@ title: "Rapid <i>in vitro</i> evolution of flucytosine resistance in <i>Candida 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-18-paper-mSphere
-# excerpt: 'This paper is about fixing template issue #999.'
+# excerpt: 'This paper is about'
 date: 2025-03-18
 venue: 'mSphere Antimicrobial Chemotherapy'
 paperurl: 'https://doi.org/10.1128/msphere.00977-24'
