@@ -1,5 +1,5 @@
 ---
-title: "Rapid in vitro evolution of flucytosine resistance in Candida auris"
+title: "Rapid <i>in vitro</i> evolution of flucytosine resistance in <i>Candida auris</i>"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-18-paper-mSphere
