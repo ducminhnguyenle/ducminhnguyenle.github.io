@@ -4,7 +4,7 @@ collection: teaching
 type: "Modern Pathology, Bioinformatics and Biomedical Sciences"
 permalink: /teaching/advanced-vnpathoinformatics_ytb
 venue: "Publicly Available online courses on Youtube"
-date: Since 2021
+date: 2021-03-07
 location: "Youtube"
 ---
 
