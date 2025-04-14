@@ -8,11 +8,9 @@ date: 2023-08-11
 location: "Ho Chi Minh city, Vietnam"
 ---
 
+Teaching assistance for statistical and bioinformatic analysis in GWAS case-control studies
+
 ## 📑 Introduction to GWAS 2023
-
-======
-
-- Teaching assistance for statistical and bioinformatic analysis in GWAS case-control studies
 
 - UK clinical biomedical databank and genome-wide association studies (UK biobank) at [University of Medicine and Pharmacy](https://ump.edu.vn/) at Ho Chi Minh city
 

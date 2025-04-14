@@ -12,12 +12,8 @@ Teaching assistance for applied genetic bioinformatics and downstream DNA-sequen
 
 ## 2024
 
-======
-
 📑 [Applied bioinformatics course 2024](https://github.com/luuloi/AppliedBioinformatics2024)
 
 ## 2023
-
-======
 
 📑 [Applied bioinformatics course 2023](https://github.com/luuloi/AppliedBioinformatics2023)
