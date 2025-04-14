@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,8 +27,6 @@ I’m a passionate bioinformatics scientist using technology to improve human he
 Complex biomedical and heterogeneity of genomic data carry important stories that can drive progress in healthcare. My work focus on translating this intricate information into meaningful actionable insights and practical health solutions through careful analysis, clear and engaging visualization, and collaborative partnerships.
 
 ## 📖 Selected publications
-
-See the longer list [here](https://ducminhnguyenle.github.io/publications){target="_blank"} or full list from my [Google Scholar](https://scholar.google.com/citations?user=PaGIHZMAAAAJ){target="_blank"} page
 
 <p>
   See the longer list
