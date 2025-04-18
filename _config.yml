@@ -25,10 +25,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Duc-Minh Nguyen-Le"
   pronouns         : # example: "he/him"  
-  bio              : "Bioinformatics scientist"
+  bio              : "Bioinformatics scientist, MD"
   location         : "Ho Chi Minh City, Vietnam"
   employer         : "Institute for Applied Research<br>in Health Sciences and Aging (ARiHA),<br>Thong Nhat Hospital"
-  uri              : # URL
+  uri              : "https://ducminhnguyenle.github.io"
   email            : "ducminhnguyenle30091996@gmail.com" 
 
   # Academic websites
