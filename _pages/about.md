@@ -11,7 +11,7 @@ Hi there — I’m Duc-Minh Nguyen-Le, and I’m excited to share my work and in
 
 ## 🌱 About Me
 
-I’m a passionate bioinformatics scientist using technology to improve human health. My work focuses on transforming complex genomic data into actionable insights and meaningful stories through analysis, visualization, and human interactions.
+I’m a passionate bioinformatics scientist using technology to improve human health. Previously a practicing pathologist and internal medicine physician. My work focuses on transforming complex genomic data into actionable insights and meaningful stories through analysis, visualization, and human interactions.
 
 ## 🧭 Research Interests
 
