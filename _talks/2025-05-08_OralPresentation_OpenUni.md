@@ -2,7 +2,7 @@
 title: "The 3rd International Conference on Biotechnology at Ho Chi Minh City Open University 2025"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2025-05-08_OralPresentation_OpenUni.md
+permalink: /talks/2025-05-08_OralPresentation_OpenUni
 venue: "Open University"
 date: 2025-05-08
 location: "Ho Chi Minh City, Vietnam"
