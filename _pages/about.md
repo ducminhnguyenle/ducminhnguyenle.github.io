@@ -38,4 +38,7 @@ Complex biomedical and heterogeneity of genomic data carry important stories tha
 
 ## 📬 Get in Touch
 
+- Personal: <ducminhnguyenle30091996@gmail.com>
+- University: <leducminhnguyen@llu.edu>
+
 ## 📌 Explore More
